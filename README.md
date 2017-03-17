@@ -1,2 +1,4 @@
 # simulation1
-first repository
+
+This simulation should simulate the change of air-fraction,
+when the speed is increase or decreasing
